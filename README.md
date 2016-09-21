@@ -1,7 +1,6 @@
 # Z3RO
 Color, Texture and Material changer
 
-nPose Color/Texture rev. 0.05:                  
         
 New Features:
 This plugin now will relay out on it's arbNum as a chat channel to any in world prims not associated with nPose.  To use this feature add this script to the nPose base and to the in world prim to receive the color/texture changes.  Also add "In World Listener Script" to the in world prim within the linked build.
