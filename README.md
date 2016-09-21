@@ -24,8 +24,11 @@ Syntax is as follows:
         LINKMSG|-22452987|color as vector~side (-1 being all sides)~type of texture (texture, normal, specular)|key (uuid) or name of texture (the uuid in my oppinion being the more reliable)
 
 the texture type can be set by typing either:
+
         texture         > Used to get or set the texture settings of a prim's face. 
+        
         normal          > Used to get the normal map texture settings of a prim's face. (also called Bumpiness)
+        
         specular        > Used to set the specular map texture settings of a prim's face. (also called Shininess)
         
 if none is entered the script will use the default type being a texture map.
